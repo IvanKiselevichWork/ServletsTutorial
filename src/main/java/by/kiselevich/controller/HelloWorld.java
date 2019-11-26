@@ -8,6 +8,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/**
+ * https://www.tutorialspoint.com/servlets/servlets-first-example.htm
+ */
 @WebServlet(name = "HelloWorld", urlPatterns = {"/helloworld"})
 public class HelloWorld extends HttpServlet {
     private String message;
