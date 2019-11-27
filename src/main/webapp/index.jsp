@@ -5,5 +5,6 @@
 <a href="./helloform">Hello Form</a> <br/>
 <a href="./checkbox">Check Box</a> <br/>
 <a href="./readparams">Read Params</a> <br/>
+<a href="./displayheader">Display Header</a> <br/>
 </body>
 </html>
