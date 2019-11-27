@@ -8,5 +8,6 @@
 <a href="./displayheader">Display Header</a> <br/>
 <a href="./refreshheader">Refresh Header</a> <br/>
 <a href="./showerror">Show Error</a> <br/>
+<a href="./iplogfilter">IP Log Filter</a> <br/>
 </body>
 </html>
