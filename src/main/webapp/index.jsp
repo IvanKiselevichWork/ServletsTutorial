@@ -7,5 +7,6 @@
 <a href="./readparams">Read Params</a> <br/>
 <a href="./displayheader">Display Header</a> <br/>
 <a href="./refreshheader">Refresh Header</a> <br/>
+<a href="./showerror">Show Error</a> <br/>
 </body>
 </html>
