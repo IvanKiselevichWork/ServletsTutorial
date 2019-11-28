@@ -15,7 +15,7 @@ import java.util.Date;
  * https://www.tutorialspoint.com/servlets/servlets-writing-filters.htm
  */
 @WebFilter(
-        urlPatterns = "/iplogfilter",
+        urlPatterns = {"/iplogfilter"},
         initParams = @WebInitParam(
                 name = "test-param",
                 value = "test-param_value"),
