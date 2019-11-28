@@ -29,7 +29,7 @@ public class LogFilter implements Filter {
         String testParam = filterConfig.getInitParameter("test-param");
 
         //Print the init parameter
-        System.out.println("Test Param: " + testParam);
+        System.out.println("Log filter init, test-param: " + testParam);
     }
 
     @Override
