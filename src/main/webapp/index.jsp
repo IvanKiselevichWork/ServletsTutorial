@@ -9,5 +9,7 @@
 <a href="./refreshheader">Refresh Header</a> <br/>
 <a href="./showerror">Show Error</a> <br/>
 <a href="./iplogfilter">IP Log Filter</a> <br/>
+<a href="./setcookies">Set Cookies</a> <br/>
+<a href="./readcookies">Read Cookies</a> <br/>
 </body>
 </html>
