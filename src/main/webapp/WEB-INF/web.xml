@@ -16,6 +16,11 @@
     <location>/errorhandler</location>
   </error-page>
 
+  <error-page>
+    <error-code>500</error-code>
+    <location>/errorhandler</location>
+  </error-page>
+
   <!-- exception-type related error pages -->
   <error-page>
     <exception-type>

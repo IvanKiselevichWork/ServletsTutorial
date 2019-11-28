@@ -49,7 +49,7 @@ public class ErrorHandler extends HttpServlet {
             }
             if (throwable != null) {
                 out.println("Exception Type : " + throwable.getClass( ).getName( ) + "</br></br>");
-                out.println("The exception message: " + throwable.getMessage( ));
+                out.println("The exception message: " + throwable.getMessage( )  + "</br></br>");
             }
         }
         out.println("Servlet Name : " + servletName + "</br></br>");
