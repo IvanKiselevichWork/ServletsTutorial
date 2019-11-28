@@ -4,4 +4,28 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+
+  <!-- error-code related error pages -->
+  <error-page>
+    <error-code>404</error-code>
+    <location>/errorhandler</location>
+  </error-page>
+
+  <error-page>
+    <error-code>403</error-code>
+    <location>/errorhandler</location>
+  </error-page>
+
+  <!-- exception-type related error pages -->
+  <error-page>
+    <exception-type>
+      javax.servlet.ServletException
+    </exception-type >
+    <location>/errorhandler</location>
+  </error-page>
+
+  <error-page>
+    <exception-type>java.io.IOException</exception-type >
+    <location>/errorhandler</location>
+  </error-page>
 </web-app>
