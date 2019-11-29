@@ -17,5 +17,6 @@
 <a href="./currentdate">Current Date</a> <br/>
 <a href="./pageredirect">Page Redirect</a> <br/>
 <a href="./pagehitcounter">Page Hit Counter</a> <br/>
+<a href="./refresh">Auto Refresh</a> <br/>
 </body>
 </html>
