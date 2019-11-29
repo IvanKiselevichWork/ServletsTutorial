@@ -16,5 +16,6 @@
 <a href="./uploadfile">File Upload Form</a> <br/>
 <a href="./currentdate">Current Date</a> <br/>
 <a href="./pageredirect">Page Redirect</a> <br/>
+<a href="./pagehitcounter">Page Hit Counter</a> <br/>
 </body>
 </html>
