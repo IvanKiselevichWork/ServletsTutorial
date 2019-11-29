@@ -14,5 +14,6 @@
 <a href="./sessiontrack">Session Track</a> <br/>
 <a href="./databaseaccess">Database Access</a> <br/>
 <a href="./uploadfile">File Upload Form</a> <br/>
+<a href="./currentdate">Current Date</a> <br/>
 </body>
 </html>
