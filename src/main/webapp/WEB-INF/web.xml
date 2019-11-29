@@ -5,6 +5,14 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 
+  <context-param>
+    <param-name>file-upload</param-name>
+    <param-value>
+      C:\Tomcat\webapps\upload_data\
+    </param-value>
+    <description>Location to store uploaded file</description>
+  </context-param>
+
   <!-- error-code related error pages -->
   <error-page>
     <error-code>404</error-code>
@@ -33,4 +41,5 @@
     <exception-type>java.io.IOException</exception-type >
     <location>/errorhandler</location>
   </error-page>
+
 </web-app>
