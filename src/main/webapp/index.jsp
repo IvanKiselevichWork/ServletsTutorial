@@ -12,5 +12,6 @@
 <a href="./setcookies">Set Cookies</a> <br/>
 <a href="./readcookies">Read Cookies</a> <br/>
 <a href="./sessiontrack">Session Track</a> <br/>
+<a href="./databaseaccess">Database Access</a> <br/>
 </body>
 </html>
