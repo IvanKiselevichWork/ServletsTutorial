@@ -15,5 +15,6 @@
 <a href="./databaseaccess">Database Access</a> <br/>
 <a href="./uploadfile">File Upload Form</a> <br/>
 <a href="./currentdate">Current Date</a> <br/>
+<a href="./pageredirect">Page Redirect</a> <br/>
 </body>
 </html>
