@@ -18,5 +18,6 @@
 <a href="./pageredirect">Page Redirect</a> <br/>
 <a href="./pagehitcounter">Page Hit Counter</a> <br/>
 <a href="./refresh">Auto Refresh</a> <br/>
+<a href="./sendemail">Send email</a> <br/>
 </body>
 </html>
