@@ -19,5 +19,6 @@
 <a href="./pagehitcounter">Page Hit Counter</a> <br/>
 <a href="./refresh">Auto Refresh</a> <br/>
 <a href="./sendemail">Send email</a> <br/>
+<a href="./api">API Manual</a>
 </body>
 </html>
